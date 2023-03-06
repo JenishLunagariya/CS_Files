@@ -1,0 +1,15 @@
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\bin\Debug\net7.0\CS_Files.exe
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\bin\Debug\net7.0\CS_Files.deps.json
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\bin\Debug\net7.0\CS_Files.runtimeconfig.json
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\bin\Debug\net7.0\CS_Files.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\bin\Debug\net7.0\CS_Files.pdb
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\CS_Files.csproj.AssemblyReference.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\CS_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\CS_Files.AssemblyInfoInputs.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\CS_Files.AssemblyInfo.cs
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\CS_Files.csproj.CoreCompileInputs.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\CS_Files.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\refint\CS_Files.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\CS_Files.pdb
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\CS_Files.genruntimeconfig.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\obj\Debug\net7.0\ref\CS_Files.dll
