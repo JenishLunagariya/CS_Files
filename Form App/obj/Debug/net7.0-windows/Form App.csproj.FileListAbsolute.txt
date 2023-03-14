@@ -1,0 +1,15 @@
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\bin\Debug\net7.0-windows\Form App.exe
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\bin\Debug\net7.0-windows\Form App.deps.json
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\bin\Debug\net7.0-windows\Form App.runtimeconfig.json
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\bin\Debug\net7.0-windows\Form App.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\bin\Debug\net7.0-windows\Form App.pdb
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\Form App.csproj.AssemblyReference.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\Form App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\Form App.AssemblyInfoInputs.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\Form App.AssemblyInfo.cs
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\Form App.csproj.CoreCompileInputs.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\Form App.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\refint\Form App.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\Form App.pdb
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\Form App.genruntimeconfig.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Form App\obj\Debug\net7.0-windows\ref\Form App.dll
