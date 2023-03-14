@@ -1,9 +1,15 @@
 using System;
-namespace HelloWorld{
-    class hello{
-        static void Main(string[] args){
-            Console.WriteLine("Hello Jeinsh");
+namespace Hello{
+    class Hello{
+        static void Main(){
+            Console.WriteLine("Hello Jenish");
             Console.ReadKey();
         }
     }
 }
+//This is single line comment
+
+/* 
+This is Multi-line
+Comment
+*/
