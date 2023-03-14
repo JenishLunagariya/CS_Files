@@ -1,0 +1,15 @@
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\bin\Debug\net7.0\Note-taking App.exe
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\bin\Debug\net7.0\Note-taking App.deps.json
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\bin\Debug\net7.0\Note-taking App.runtimeconfig.json
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\bin\Debug\net7.0\Note-taking App.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\bin\Debug\net7.0\Note-taking App.pdb
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\Note-taking App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\Note-taking App.AssemblyInfoInputs.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\Note-taking App.AssemblyInfo.cs
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\Note-taking App.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\refint\Note-taking App.dll
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\Note-taking App.pdb
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\Note-taking App.genruntimeconfig.cache
+C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\Note-taking App\obj\Debug\net7.0\ref\Note-taking App.dll

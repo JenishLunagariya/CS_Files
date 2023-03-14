@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Note-taking App/1.0.0": {
+        "runtime": {
+          "Note-taking App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Note-taking App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
