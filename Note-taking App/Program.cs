@@ -13,12 +13,16 @@ namespace myApplication{
 
         public Login(){
             string writeuserName = "Jenish";
-            // string writepassWord = "12345678";
-
-            // File.WriteAllText("password.txt",writepassWord);
+            if (File.ReadAllText("password.txt") == ""){
+                string writepassWord = "12345678";
+                File.WriteAllText("password.txt",writepassWord);
+            }
+             
             File.WriteAllText("username.txt",writeuserName);
             this.LoginPassword = File.ReadAllText("password.txt");
             this.LoginUsername = File.ReadAllText("username.txt");
+            File.Encrypt("username.txt");
+            File.Encrypt("password.txt");
         }
         public void setLoginPassword(string password){
             File.WriteAllText("password.txt",password);
@@ -27,6 +31,10 @@ namespace myApplication{
             LoginPassword = File.ReadAllText("password.txt");
             return LoginPassword;
         }   
+        public void decryptFile(){
+            File.Decrypt("username.txt");
+            File.Decrypt("password.txt");
+        }
     }
     class Program:Login{
 
