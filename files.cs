@@ -9,14 +9,10 @@ namespace myFileIO{
             string readTxt = File.ReadAllText("files.txt");
             Console.WriteLine(readTxt);
 
-            try{
-                int[] myNum = {1,2,3};
-                Console.WriteLine(myNum[10]);
-            }catch(Exception e){
-                Console.WriteLine(e.Message);
-            }finally{
-                Console.WriteLine("You catched error...")
-            }
+            writeTxt = "Password";
+            File.WriteAllText("files.txt",writeTxt);
+            readTxt = File.ReadAllText("files.txt");
+            Console.WriteLine(readTxt);
         }
     }
 }
