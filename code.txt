@@ -1,0 +1,68 @@
+using System;
+using System.IO;
+using System.Security.Cryptography;
+
+namespace myFileIO{
+    class Program{
+        static void Main(string[] args){
+            byte[] key = { 0x02, 0x03, 0x01, 0x03, 0x03, 0x07, 0x07, 0x08, 0x09, 0x09, 0x11, 0x11, 0x16, 0x17, 0x19, 0x16 };
+            try{
+                using FileStream myStream = new FileStream(@"C:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\files.txt",FileMode.OpenOrCreate);
+                //configure encryption key
+                using Aes aes = Aes.Create();
+                aes.Key = key;
+                //store IV
+                byte[] iv = aes.IV;
+                myStream.Write(iv,0,iv.Length);
+                // encrypt filestream  
+                using CryptoStream cryptStream = new CryptoStream(
+                    myStream,
+                    aes.CreateEncryptor(),
+                    CryptoStreamMode.Write);
+
+                //write to file stream
+                using StreamWriter sWriter = new StreamWriter(cryptStream);
+                string username = "Jenish";
+                sWriter.WriteLine(username);
+
+                //done
+                Console.WriteLine("-----Successful Encrytion-----");
+            }catch{
+                Console.WriteLine("-----Encryption Failed-----");
+                throw;
+            }
+            // Show encryted data
+            try{
+                string text = System.IO.File.ReadAllText(@"C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\files.txt");
+                Console.WriteLine("Encrypted Data: {0}\n\n", text);
+ 
+                Console.WriteLine("Press any key to view decrypted data\n");
+                Console.ReadKey();
+            }catch{
+                throw;
+            }
+            //Decrypt Data
+            try{
+                using FileStream myStream = new FileStream(@"C:\Users\10710516\OneDrive - LTI\Desktop\JBL\CS_Files\files.txt",FileMode.Open);
+                using Aes aes = Aes.Create();
+                byte[] iv = new byte[aes.IV.Length];
+                myStream.Read(iv,0,iv.Length);
+
+                //decrypt data
+                using CryptoStream cryptoStream = new CryptoStream(
+                    myStream,
+                    aes.CreateDecryptor(key,iv),
+                    CryptoStreamMode.Read);
+                
+                //read stream 
+                using StreamReader sReader = new StreamReader(cryptoStream);
+                Console.WriteLine("\n------Successful Decryption-------\n");
+                Console.WriteLine("Decrypted Data: {0}",sReader.ReadToEnd());
+                Console.ReadKey();
+            }catch{
+                Console.WriteLine("--------Decrption Failed-------");
+                throw;
+            }
+        }
+    }
+}
