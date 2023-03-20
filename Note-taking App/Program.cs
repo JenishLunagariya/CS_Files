@@ -30,14 +30,13 @@ namespace myApplication{
         public string getLoginPassword(){
             LoginPassword = File.ReadAllText("password.txt");
             return LoginPassword;
-        }   
+        }
         public void decryptFile(){
             File.Decrypt("username.txt");
             File.Decrypt("password.txt");
         }
     }
     class Program:Login{
-
         static void Main(string[] args){
             Console.WriteLine("Hello, Please enter your login credentials");
             Login loginCredentials = new Login();

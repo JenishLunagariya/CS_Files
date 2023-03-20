@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\Note-taking App.csproj": {}
+    "c:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\Note-taking App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\Note-taking App.csproj": {
+    "c:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\Note-taking App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\Note-taking App.csproj",
+        "projectUniqueName": "c:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\Note-taking App.csproj",
         "projectName": "Note-taking App",
-        "projectPath": "C:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\Note-taking App.csproj",
+        "projectPath": "c:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\Note-taking App.csproj",
         "packagesPath": "C:\\Users\\10710516\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\obj\\",
+        "outputPath": "c:\\Users\\10710516\\OneDrive - LTI\\Desktop\\JBL\\CS_Files\\Note-taking App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\10710516\\AppData\\Roaming\\NuGet\\NuGet.Config"
